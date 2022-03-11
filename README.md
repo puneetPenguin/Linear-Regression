@@ -1,5 +1,4 @@
 # Linear Regression
-###### Written by [Juzer Shakir](https://juzershakir.github.io/)
 
 ## Table of Contents
 
